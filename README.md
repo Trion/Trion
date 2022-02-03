@@ -6,6 +6,8 @@
 - I'm working on my dream
 - Using (Arduino,STM32,RPI,ESP8266,ESP32,Orange Pi Zero)
 ![image](https://user-images.githubusercontent.com/23373352/152310142-84fdc239-3a47-48d1-803b-8ea03e5ab25e.png)
+
+# Fork From Lembed
 # awesome-arduino
 A curated list of awesome Arduino hardware, libraries and projects
 - [Awesome Arduino](#awesome-Arduino)
@@ -272,27 +274,6 @@ A curated list of awesome Arduino hardware, libraries and projects
 * [Smart Garden](http://www.instructables.com/id/Smart-Garden-1/?ALLSTEPS) - clone of Erbbie
 * [Temperature controlled craft beer coolbox](http://www.instructables.com/id/temperature-controlled-craft-beer-coolbox/) - A coolbox in which you can control the temperature in three separate compartments
 
-## Usage
-work in 'git bash' at Windows with Git installed or Linux OS
-
-```bash
-sh update.sh
-
-usage()
-{
-    echo ""
-    echo " usage:"
-    echo ""
-    echo "./update.sh <cmd>"
-    echo "    where <cmd> is one of:"
-    echo "      --install-or-update     (does full installation or update.)"
-    echo "      --remove 		        (removes all installed)"
-    echo ""
-    echo "example:"
-    echo '    $ ./update.sh --install-or-update'
-}
-```
-
 ## Contributing
 * [Contributing](https://github.com/lembed/awesome-arduino/blob/master/CONTRIBUTING.md)
 
@@ -300,7 +281,8 @@ Your contributions are always welcome!
 
 [![Analytics](https://ga-beacon.appspot.com/UA-67438080-1/awesome-arduino/readme?pixel)](https://github.com/Lembed/awesome-arduino)
 
-#Frok From hoppyquaker
+
+# Frok From hoppyquaker
 # Awesome MQTT
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
