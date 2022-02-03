@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trion
+- 👋 Hi, I’m @Trion (You can call me Trion Or NyeinChanKo)
 - 👀 I’m interested in Embedded System and IOT
 - 🌱 I’m currently learning Embedded System and IOT
 - 💞️ I’m looking to collaborate on IOT
