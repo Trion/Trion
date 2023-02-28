@@ -7,6 +7,12 @@
 - Arduino, ESP8266, ESP32
 
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Trion">
+  <img align="center" src="https://github.com/Ultrathings-Electronic/WaterLevelController/blob/main/hight.svg" alt="Trion" />
+</a>
+
 
 <!---
 Trion/Trion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
