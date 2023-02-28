@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github.com/Trion">
-  <img align="center" src="[https://github.com/Ultrathings-Electronic/WaterLevelController/blob/main/hight.svg](https://github.com/Trion/Sensors_fw_tester/blob/main/Soil%20Moisture.svg)" alt="Trion" />
+  <img align="center" src="https://github.com/Trion/Sensors_fw_tester/blob/main/Soil%20Moisture.svg" alt="Trion" />
 </a>
 
 
