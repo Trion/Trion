@@ -4,26 +4,19 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Trion&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
-- 👋 Hi, I’m @Trion (You can call me Trion Or NyeinChanKo)
+- Hi, I’m @Trion (You can call me Trion Or NyeinChanKo)
 - Dream on Embedded System, IOT , PCB Design
 - Arduino, ESP8266, ESP32
 
-
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
 
-
-<br>
-<br>
-
-
 ## 🗂️ Highlight Projects
-
  <a href="https://github.com/Trion">
   <img align="center" src="https://github.com/Ultrathings-Electronic/WaterLevelController/blob/main/hight.svg" alt="Trion" />
 </a>
 
 <a href="https://github.com/Trion">
-  <img align="right" src="https://github.com/Trion/Sensors_fw_tester/blob/main/Soil%20Moisture.svg" alt="Trion" />
+  <img align="center" src="https://github.com/Trion/Sensors_fw_tester/blob/main/Soil%20Moisture.svg" alt="Trion" />
 </a>
 <br> 
 
