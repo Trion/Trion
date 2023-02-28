@@ -13,6 +13,12 @@
   <img align="center" src="https://github.com/Ultrathings-Electronic/WaterLevelController/blob/main/hight.svg" alt="Trion" />
 </a>
 
+<a href="https://github.com/Trion">
+  <img align="center" src="[https://github.com/Ultrathings-Electronic/WaterLevelController/blob/main/hight.svg](https://github.com/Trion/Sensors_fw_tester/blob/main/Soil%20Moisture.svg)" alt="Trion" />
+</a>
+
+
+
 
 <!---
 Trion/Trion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
