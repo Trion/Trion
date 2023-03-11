@@ -7,9 +7,13 @@
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Trion&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> -->
 
 
-
+```
 -  မင်္ဂလာပါ၊ ငါ @Trion ပါ။ 
 -  Work on Embedded System, IOT PCB Design.
+
+```
+
+
 
 ## Useful Tools
  Arduino, ESP8266, ESP32, C, Platformio, FreeRTOS, MicroPython, Kicad
