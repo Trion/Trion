@@ -24,8 +24,11 @@
 ## Arduino ESP8266 Framework Development GuideLine 
 - <a href="https://tttapa.github.io/ESP8266/Chap05%20-%20Network%20Protocols.html"><strong>ESP8266 GUIDE LINE</strong></a>
 - <a href="https://arduino-esp8266.readthedocs.io/en/latest/"><strong>OFFICAL ESP8266 GUIDE LINE</strong></a>
+- <a href="https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/index.html">ESP8266 RTOS SDK GUIDE LINE</a>
 ## Internet Of Things Development GuideLine
 - <a href="https://github.com/HQarroum/awesome-iot#readme"><strong>INTERNET OF THINGS</strong></a>
+- <a href = "https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/gettingstarted.html"><Strong>ESPRESSIF IOT SOLUTION</Strong></a>
+- <a href = "https://github.com/espressif/ESP8266_RTOS_SDK">ESP8266 RTOS SDK</a>
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
 
 ## 🗂️ Current Highlight Projects
