@@ -21,10 +21,11 @@
 ## Useful Tools
 ` Arduino, ESP8266, ESP32, C, Platformio, FreeRTOS, MicroPython, Kicad `
 
-## Arduino ESP8266 Framework Development GuideLine Base on esp8266 non os sdk
+## Arduino ESP8266 Framework Development GuideLine 
 - <a href="https://tttapa.github.io/ESP8266/Chap05%20-%20Network%20Protocols.html"><strong>ESP8266 GUIDE LINE</strong></a>
 - <a href="https://arduino-esp8266.readthedocs.io/en/latest/"><strong>OFFICAL ESP8266 GUIDE LINE</strong></a>
-
+## Internet Of Things Development GuideLine
+- <a href="https://github.com/HQarroum/awesome-iot#readme"><strong>INTERNET OF THINGS</strong></a>
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
 
 ## 🗂️ Current Highlight Projects
