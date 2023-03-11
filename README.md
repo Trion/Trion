@@ -8,7 +8,9 @@
 
 - Hi, I’m @Trion (You can call me Trion Or NyeinChanKo)
 - Dream on Embedded System, IOT , PCB Design
-- Arduino, ESP8266, ESP32
+-
+## Useful Tools
+ Arduino, ESP8266, ESP32, C, Platformio, FreeRTOS
 
 https://tttapa.github.io/ESP8266/Chap05%20-%20Network%20Protocols.html
 
