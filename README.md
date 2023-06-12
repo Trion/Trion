@@ -10,7 +10,7 @@
 
 
 
--  မင်္ဂလာပါ၊ ငါ @Trion ပါ။ 
+
 -  Work on Embedded System, IOT PCB Design.
 
 
