@@ -1,8 +1,8 @@
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 
 
-</h1>
-Do something Great
+
+<h1>Do something Great</h1>
 <!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Trion&left_color=green&right_color=red) -->
   
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Trion&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> -->
@@ -35,6 +35,10 @@ Do something Great
 - <a href="https://arduino-pico.readthedocs.io/en/latest/install.html"><strong>Pi Pico with Arduino</strong></a>
 ## Embedded Rust Framework Development GuideLine
 - <a href="https://docs.rust-embedded.org/book/">My New Journey</a>
+
+
+
+
 
 ## 🗂️ Current Highlight Projects
  <a href="https://github.com/Trion">
