@@ -19,7 +19,7 @@ Do something Great
 
 
 ## Useful Tools
-` Arduino, ESP8266, ESP32, C, Platformio, FreeRTOS, MicroPython, Kicad `
+` Arduino, ESP8266, ESP32,Pi Pico,MSP430,Atmel Studio,RT-Thread, C, Platformio, FreeRTOS, MicroPython, Kicad `
 
 ## Arduino ESP8266 Framework Development GuideLine 
 - <a href="https://tttapa.github.io/ESP8266/Chap05%20-%20Network%20Protocols.html"><strong>ESP8266 GUIDE LINE</strong></a>
