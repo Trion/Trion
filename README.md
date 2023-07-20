@@ -33,6 +33,8 @@ Do something Great
 - <a href="https://lindevs.com/set-up-raspberry-pi-pico-sdk-on-ubuntu"><strong>Raspberry Pi Pico C SDK On Ubuntu Setup Guide</strong></a>
 - <a href="https://forums.raspberrypi.com/viewtopic.php?t=305620"><strong>Raspberry Pi pico useful lib</strong></a>
 - <a href="https://arduino-pico.readthedocs.io/en/latest/install.html"><strong>Pi Pico with Arduino</strong></a>
+## Embedded Rust Framework Development GuideLine
+- <a href="https://docs.rust-embedded.org/book/">My New Journey</a>
 
 ## 🗂️ Current Highlight Projects
  <a href="https://github.com/Trion">
