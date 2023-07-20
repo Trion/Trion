@@ -19,7 +19,7 @@ Do something Great
 
 
 ## Useful Tools
-` Arduino, ESP8266, ESP32,Pi Pico,MSP430,Atmel Studio,RT-Thread, C, Platformio, FreeRTOS, MicroPython, Kicad `
+` Arduino, ESP8266, ESP32,Pi Pico,MSP430,Atmel Studio,RT-Thread, C, Platformio, FreeRTOS, MicroPython, Kicad ,EasyEda`
 
 ## Arduino ESP8266 Framework Development GuideLine 
 - <a href="https://tttapa.github.io/ESP8266/Chap05%20-%20Network%20Protocols.html"><strong>ESP8266 GUIDE LINE</strong></a>
@@ -29,7 +29,10 @@ Do something Great
 - <a href="https://github.com/HQarroum/awesome-iot#readme"><strong>INTERNET OF THINGS</strong></a>
 - <a href = "https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/gettingstarted.html"><Strong>ESPRESSIF IOT SOLUTION</Strong></a>
 - <a href = "https://github.com/espressif/ESP8266_RTOS_SDK">ESP8266 RTOS SDK</a>
-<!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
+## Raspberry Pi Framework Development GuideLine
+- <a href="https://lindevs.com/set-up-raspberry-pi-pico-sdk-on-ubuntu"><strong>Raspberry Pi Pico C SDK On Ubuntu Setup Guide</strong></a>
+- <a href="https://forums.raspberrypi.com/viewtopic.php?t=305620"><strong>Raspberry Pi pico useful lib</strong></a>
+- <a href="https://arduino-pico.readthedocs.io/en/latest/install.html"><strong>Pi Pico with Arduino</strong></a>
 
 ## 🗂️ Current Highlight Projects
  <a href="https://github.com/Trion">
