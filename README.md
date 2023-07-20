@@ -48,7 +48,23 @@
 <a href="https://github.com/Trion">
   <img align="center" src="https://github.com/Trion/Sensors_fw_tester/blob/main/Soil%20Moisture.svg" alt="Trion" />
 </a>
+<br>
+<br>
+
+
+<a href="https://github.com/Trion">
+  <img align="center" src="https://github.com/Techmation-Tech-Team/SmartWifiSmokeDetector/blob/main/smokeDetector.svg" alt="Trion" />
+</a>
+
+<a href="https://github.com/Trion">
+  <img align="center" src="https://github.com/awsome-pipico-csdk-lib/readme/blob/main/logger.svg" alt="Trion" />
+</a>
+
 <br> 
+
+
+
+
 
 
 
