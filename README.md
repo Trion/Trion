@@ -11,7 +11,8 @@
 
 
 
--  Work on Embedded System, IOT PCB Design.
+-  Work on Embedded System, Interne Of Things, pcb Design.
+  
 
 
 
