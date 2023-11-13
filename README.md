@@ -11,7 +11,7 @@
 
 
 
--  Work on Embedded System, Interne Of Things, pcb Design.
+- Research and Product development in Internet Of Things(IOT)
   
 
 
