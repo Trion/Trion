@@ -39,6 +39,8 @@
 ## Arm Mbed OS Development GuideLine 12-10-2023 to 30-12-2023 (STM32) 
 - <a href="https://os.mbed.com/">ARM Mbed </a>
 - <a href="https://studio.keil.arm.com/auth/login/">Keli Cloud Studio Mbed Arm</a>
+## MyNotePad
+- <a href="https://product.tdk.com/en/search/sensor/ntc/chip-ntc-thermistor/simulation?utm_source=google&utm_medium=cpc&utm_campaign=search_simcal-ntc_1&gad_source=1&gclid=CjwKCAiAx_GqBhBQEiwAlDNAZlxESKYvQ7JAsjTH0ev_oeIF_69KB69FuAZcJRNFCyIB_yJCRLclIxoCwqQQAvD_BwE"> NTC Calculator</a>
 
 
 
