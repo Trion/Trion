@@ -41,6 +41,7 @@
 - <a href="https://studio.keil.arm.com/auth/login/">Keli Cloud Studio Mbed Arm</a>
 ## MyNotePad
 - <a href="https://product.tdk.com/en/search/sensor/ntc/chip-ntc-thermistor/simulation?utm_source=google&utm_medium=cpc&utm_campaign=search_simcal-ntc_1&gad_source=1&gclid=CjwKCAiAx_GqBhBQEiwAlDNAZlxESKYvQ7JAsjTH0ev_oeIF_69KB69FuAZcJRNFCyIB_yJCRLclIxoCwqQQAvD_BwE"> NTC Calculator</a>
+- <a href="http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/posts/2020/03/12/week09.html">Esp12 NTC connection</a>
 
 
 
