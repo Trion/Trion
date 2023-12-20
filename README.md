@@ -47,8 +47,9 @@
 
 
 
-## 🗂️ Current Highlight Projects
- <a href="https://github.com/Trion">
+##  Current Highlight Projects
+
+<!--  <a href="https://github.com/Trion">
   <img align="center" src="https://github.com/Ultrathings-Electronic/WaterLevelController/blob/main/hight.svg" alt="Trion" />
 </a>
 
@@ -65,7 +66,7 @@
 
 <a href="https://github.com/Trion">
   <img align="center" src="https://github.com/awsome-pipico-csdk-lib/readme/blob/main/logger.svg" alt="Trion" />
-</a>
+</a> --->
 
 <br> 
 
