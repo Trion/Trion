@@ -21,7 +21,7 @@
 
 
 ## Useful Tools and Technologies that I used for product create 
-` Arduino, ESP8266, ESP32,Pi Pico,MSP430,Atmel Studio,RT-Thread, C, Platformio, FreeRTOS, MicroPython, Kicad ,Stm32, EasyEda ,Mqtt, Pyqt5,Stm32F74689G, DwinHmi`
+` Arduino, ESP8266, ESP32,Pi Pico,MSP430,Atmel Studio,RT-Thread, C, Platformio, FreeRTOS, MicroPython, Kicad ,Stm32, EasyEda ,Mqtt, Pyqt5,Stm32F74689G, DwinHmi, A9G/GSMGPRS`
 
 ## Arduino ESP8266 Framework Development GuideLine 
 - <a href="https://tttapa.github.io/ESP8266/Chap05%20-%20Network%20Protocols.html"><strong>ESP8266 GUIDE LINE</strong></a>
