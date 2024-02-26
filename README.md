@@ -3,16 +3,13 @@
 
 
 <h1>Do something Great</h1>
-<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Trion&left_color=green&right_color=red) -->
-
-  <!--<img src="https://github.com/Trion/Trion/blob/main/Paint%20Acent.PNG"/> -->
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=Trion&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Trion&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> 
 
 
 
 
 
-- Research and Product development in Internet Of Things(IOT)
+- Research and Product development on Internet Of Things(IOT)
   
 
 
@@ -45,9 +42,6 @@
 - <a href="http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/posts/2020/03/12/week09.html">Esp12 NTC connection</a>
 
 
-
-
-
 ##  Current Highlight Projects
 
 <!--  <a href="https://github.com/Trion">
@@ -63,29 +57,13 @@
 
 <a href="https://github.com/Trion">
   <img align="center" src="https://github.com/Techmation-Tech-Team/SmartWifiSmokeDetector/blob/main/smokeDetector.svg" alt="Trion" />
-</a>
+</a> 
 
 <a href="https://github.com/Trion">
   <img align="center" src="https://github.com/awsome-pipico-csdk-lib/readme/blob/main/logger.svg" alt="Trion" />
 </a> --->
 
 <br> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 Trion/Trion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
