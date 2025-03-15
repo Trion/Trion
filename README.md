@@ -1,23 +1,20 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
 
-
-
 <h1>Firmware</h1>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Trion&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
-
-
-
-- Research and Product development on Internet Of Things(IOT)
-- Opensource Internet Of Things Devices
+- Research and Product development on Internet Of Things
 - My angels 💙 MAY
+- Myanmar Internet Of Things Community
+- Currently Development in Thailand
   
 
 
 
 
-
+<!---
 
 ## Useful Tools and Technologies that I used for product create 
 ` Arduino, ESP8266, ESP32,Pi Pico,MSP430,Atmel Studio,RT-Thread, C, Platformio, FreeRTOS, MicroPython, Kicad ,Stm32, EasyEda ,Mqtt, Pyqt5,Stm32F74689G, DwinHmi, A9G/GSMGPRS`
@@ -65,7 +62,7 @@
   <img align="center" src="https://github.com/awsome-pipico-csdk-lib/readme/blob/main/logger.svg" alt="Trion" />
 </a> 
 
-<br> 
+<br>  --->
 
 <!---
 Trion/Trion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
