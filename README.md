@@ -59,6 +59,7 @@ End-to-end solutions from electronics architecture design through full-scale pro
 - Concept-to-prototype development
 - Supply chain & inventory management
 - Tailored online business solutions
+- PCB Design Service
 
 transtak.net | +65 85 29 5991
 
