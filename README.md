@@ -61,7 +61,7 @@ End-to-end solutions from electronics architecture design through full-scale pro
 - Tailored online business solutions
 - PCB Design Service
 
-transtak.net | +65 85 29 5991
+sales@transtak.com.sg | +65 85 29 5991
 
 </td>
 </tr>
