@@ -19,6 +19,55 @@ Embedded systems engineer specializing in IoT product development — from PCB d
 
 ---
 
+### Company
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://sixthkendra.com/">
+<img src="https://sixthkendra.com/web/image/1138-f984a1f7/sixthKendra_logo.svg" width="180" alt="Sixth Kendra">
+</a>
+
+**[Sixth Kendra](https://sixthkendra.com/)**
+
+Technology group delivering IoT solutions, smart electronics manufacturing, and digital transformation across Southeast Asia.
+
+`Fuel Station Management` `IoT Solutions` `Smart Home` `POS Systems`
+
+**Subsidiaries:**
+- Transtak Pte Ltd (Singapore)
+- Innovatic IoT House Co., Ltd (Thailand)
+- Digital Engineering Tech Ltd. (Myanmar)
+
+info@sixthkendra.com | +95 9 988 34 0001
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://www.transtak.net/">
+<img src="https://www.transtak.net/web/image/website/1/logo/Transtak?unique=7eb42ae" width="180" alt="Transtak">
+</a>
+
+**[Transtak Pte Ltd](https://www.transtak.net/)**
+
+End-to-end solutions from electronics architecture design through full-scale production. Serving SMEs across Southeast Asia since 2012.
+
+`Engineering` `E-commerce` `Logistics` `Product Development`
+
+**Services:**
+- Concept-to-prototype development
+- Supply chain & inventory management
+- Tailored online business solutions
+
+transtak.net | +65 85 29 5991
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Tech Stack
 
 **MCU & Platforms**
