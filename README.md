@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nyi Nyi Chan Ko
+# Nyein Chan Ko
 
 **Embedded Firmware Engineer | IoT Product Developer**
 
